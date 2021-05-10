@@ -1,8 +1,0 @@
-gunicorn
-Flask==1.0.2
-click==6.7
-line-bot-sdk
-azure-cognitiveservices-vision-computervision
-azure.cognitiveservices.vision.face
-imgur-python
-Pillow
